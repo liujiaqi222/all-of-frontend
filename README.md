@@ -1,51 +1,14 @@
-<p align='center'>
-  <img alt="contributors" src="https://img.shields.io/github/contributors/KieSun/fucking-frontend.svg" />
-  <img alt="Commit" src="https://img.shields.io/github/commit-activity/w/KieSun/fucking-frontend" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/KieSun/fucking-frontend" />
-  <img alt="Forks" src="https://img.shields.io/github/forks/KieSun/fucking-frontend" />
-  <img alt="GitHub" src="https://img.shields.io/github/license/KieSun/fucking-frontend">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KieSun.fucking-frontend" alt="visitor badge"/>  
-</p>
+## 日常充电
 
-<p align="center">
-  <img src="./img/logo.png" width="300" />
-</p>
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)，优秀的工程师都应该阅读的网站
 
-<div align="center"><strong>重要资料已经整合在公众号「前端真好玩」，另外还附赠了前端 10 万字的面试攻略，已经帮助上千人拿到 offer。扫码发送关键字「资料」，你会发现相见恨晚！</strong></div>
+### CSS 日常充电
 
-<div align="center"><img src='./img/qrcode.jpeg' width=150 alt=''> </img></div>
-
-## 🔥 这是什么？
-
-笔者在学会 JS 以及框架的应用后，有一段时间不知道该如何深入下去，活能干，就是不知道该学啥。相信这个问题也会有很多读者朋友遇到。
-
-当然笔者目前已经突破了这个瓶颈，也成为了知名公司基础架构组的成员。因此想通过自己成长的经历及积累的资料整理出一系列的学习路线及资料推荐，帮助各位读者朋友解决这个问题。
-
-> 笔者会列出所有前端必学及热门领域的学习路径及推荐资料，比如浏览器、性能优化、框架、工程化、算法等等，工程浩大，大家可以持续关注该项目！
-
-**此资料适用于小白入门、初中级进阶、高级查漏补缺。**
-
-**内容每天都在更新，大家可以持续关注。**
-
-## 💻 如何使用
-
-如果你是初中级工程师来说，笔者也推荐先行学习「前端核心学习路径」，主要是巩固基础，之后再挑选感兴趣的主题。
-
-如果你是高级工程师，笔者推荐跳过「前端核心学习路径」，直接挑选感兴趣的主题学习即可。
-
-以下所有知识点笔者都会帮助读者朋友们将知识连贯起来，从而建立自己的知识体系而不是单独记忆松散的知识点。
-
-**推荐大家 Star 并 Fork 本项目（点击仓库顶部右上角按钮），然后 `git clone` 到本地后从上至下逐步完成学习计划。**
-
-## 如何获取本仓库资料
-
-**笔者已经将仓库内容里的重要资料整理好了，还附赠了前端 10 万字的面试攻略，已经帮助上千人拿到 offer。大家可以关注公众号发送「资料」获取。**
-
-<div align="center"><img src='./img/qrcode.jpeg' width=150 alt=''> </img></div>
-
-## 如何贡献
-
-推荐你认为优秀或者仓库缺失的内容至正确的位置即可，另外需要附带你的推荐理由。
+- [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
+- [CSS Inspiration](https://csscoco.com/inspiration/#/)
+- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
+- [spinkit](https://tobiasahlin.com/spinkit/) 需自备梯子
+- [animista](https://animista.net/)
 
 ## 📖 目录
 
@@ -862,17 +825,7 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 - [前端监控平台系列：JS SDK（已开源）](https://juejin.cn/post/6862559324632252430#heading-17)
 - [前端监控 SDK 的一些技术要点原理分析](https://juejin.cn/post/7017974567943536671?utm_source=gold_browser_extension)
 
-## 日常充电
 
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)，优秀的工程师都应该阅读的网站
-
-### CSS 日常充电
-
-- [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
-- [CSS Inspiration](https://csscoco.com/inspiration/#/)
-- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
-- [spinkit](https://tobiasahlin.com/spinkit/) 需自备梯子
-- [animista](https://animista.net/)
 
 ## Github 优秀学习资料
 
@@ -897,8 +850,3 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 
 - [whimsical](https://whimsical.com/)
 
-## 作者信息
-
-| 微信扫码关注公众号，订阅更多精彩内容                                                                 | 加笔者微信进群与大厂大佬讨论技术                                                                    |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220223702.jpeg" width="500px;" /> | <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220224224.png" width="260px;" /> |
